@@ -1,0 +1,223 @@
+[
+  { 
+    "GameName": "SubwaySurfers",
+    "Credits": "╔════════════════╗\n║     ╔═ N E P O ═╗    ║\n║     ║ M O D S    ║    ║\n╚════════════════╝" 
+  },
+  {
+    "ClassName": "Currency",
+    "OffsetName": "get_IsIAP",
+    "Nickname": "Free Shopping",
+    "DataType": "bool",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterMotorAbilities",
+    "OffsetName": "get_JumpLimit",
+    "Nickname": "jump count",
+    "DataType": "int",
+    "OffsetCount": "6"
+  },
+  {
+    "ClassName": "CharacterMotor",
+    "OffsetName": "ApplyGravity",
+    "Nickname": "No Gravity",
+    "DataType": "Void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterMotorAbilities",
+    "OffsetName": "get_MinSpeed",
+    "Nickname": "Min speed",
+    "DataType": "float",
+    "OffsetCount": "7"
+  },
+  {
+    "ClassName": "CharacterMotorAbilities",
+    "OffsetName": "get_MaxSpeed",
+    "Nickname": "Max speed",
+    "DataType": "float",
+    "OffsetCount": "7"
+  },
+  {
+    "ClassName": "CharacterMotorAbilities",
+    "OffsetName": "get_JumpHeight",
+    "Nickname": "Jump Height",
+    "DataType": "float",
+    "OffsetCount": "11"
+  },
+  {
+    "ClassName": "CharacterMotorAbilities",
+    "OffsetName": "get_AirJumpHeight",
+    "Nickname": "Air Jump Height",
+    "DataType": "float",
+    "OffsetCount": "6"
+  },
+  {
+    "ClassName": "CharacterMotorAbilities",
+    "OffsetName": "get_LaneChangeDuration",
+    "Nickname": "Lane Change Duration",
+    "DataType": "float",
+    "OffsetCount": "6"
+  },
+  {
+    "ClassName": "CharacterMotor",
+    "OffsetName": "get_CanJump",
+    "Nickname": "unlimited jump",
+    "DataType": "bool",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "ScoreMultiplierManager",
+    "OffsetName": "get_BaseMultiplierSum",
+    "Nickname": "Score Multiplier",
+    "DataType": "int",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterController",
+    "OffsetName": "get_detectCollisions",
+    "Nickname": "Wall Hack",
+    "DataType": "bool",
+    "OffsetCount": "2"
+  },
+  {
+    "ClassName": "CharacterMotor",
+    "OffsetName": "UpdateMovement",
+    "Nickname": "freeze player",
+    "DataType": "void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "EndRunCoinWidget",
+    "OffsetName": "get_OwnsCoinDoubler",
+    "Nickname": "unlock double coin",
+    "DataType": "bool",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CameraGroundedModifier",
+    "OffsetName": "Apply",
+    "Nickname": "Follow Camera",
+    "DataType": "bool",
+    "OffsetCount": "50"
+  },
+  {
+    "ClassName": "CameraOffsetModifier",
+    "OffsetName": "Apply",
+    "Nickname": "Stop Camera",
+    "DataType": "bool",
+    "OffsetCount": "53"
+  },
+  {
+    "ClassName": "CharacterMotor",
+    "OffsetName": "NotifySideImpact",
+    "Nickname": "No Collision",
+    "DataType": "Void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterMotor",
+    "OffsetName": "CheckFrontalImpact",
+    "Nickname": "God Mod 1",
+    "DataType": "bool",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterMotor",
+    "OffsetName": "CheckSideImpact",
+    "Nickname": "God Mod 1",
+    "DataType": "bool",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "StumbleBehaviour",
+    "OffsetName": "IsAutoReviveEnabled",
+    "Nickname": "Autu Revive & GM",
+    "DataType": "bool",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "StumbleBehaviour",
+    "OffsetName": "Stumble(DeathCause cause)",
+    "Nickname": "No stumble",
+    "DataType": "void",
+    "OffsetCount": "5"
+  },
+  {
+    "ClassName": "CharacterPropsController",
+    "OffsetName": "ShowSneakers(bool show)",
+    "Nickname": "hide sneakers",
+    "DataType": "void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterPropsController",
+    "OffsetName": "ShowSneakers",
+    "Nickname": "hide jetpack",
+    "DataType": "bool",
+    "OffsetCount": "2"
+  },
+  {
+    "ClassName": "CharacterPropsController",
+    "OffsetName": "ShowFlight(bool show, FlightMode flightMode)",
+    "Nickname": "hide Jetpack",
+    "DataType": "void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterPropsController",
+    "OffsetName": "ShowPogostick(bool show)",
+    "Nickname": "hide pogistick",
+    "DataType": "void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "CharacterPropsController",
+    "OffsetName": "ShowMagnet(bool show)",
+    "Nickname": "hide magnet",
+    "DataType": "void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "MovingTrain",
+    "OffsetName": "Displace()",
+    "Nickname": "Stop Moving Trains",
+    "DataType": "void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "RunSessionData",
+    "OffsetName": "AddCoins",
+    "Nickname": "Add Coins",
+    "DataType": "void \n int",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "RunSessionData",
+    "OffsetName": "AddKeys",
+    "Nickname": "Add Keys",
+    "DataType": "void\nint",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "MainPowerSystem",
+    "OffsetName": "UpdatePowers",
+    "Nickname": "Unlimited Powerup Time",
+    "DataType": "void",
+    "OffsetCount": "3"
+  },
+  {
+    "ClassName": "FlyingState",
+    "OffsetName": "FinishFlight",
+    "Nickname": "Unlimited Jetpack Time",
+    "DataType": "void",
+    "OffsetCount": "1"
+  },
+  {
+    "ClassName": "MainReviveSystem",
+    "OffsetName": "GetReviveCost",
+    "Nickname": "Revive Key Limit",
+    "DataType": "int",
+    "OffsetCount": "2"
+  }
+]
