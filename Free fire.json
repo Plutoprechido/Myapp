@@ -1,6 +1,6 @@
 [
   { 
-    "GameName": "Free Fire",
+    "GameName": "EnableFreeFireVoiceMemberChanged",
     "Credits": "╔════════════════╗\n║     ╔═ Ｈａｒｓｈｉｔ ═╗    ║\n║     ║Ｓｉｎｇｈ ║    ║\n╚════════════════╝" 
   },
   {
@@ -8,21 +8,24 @@
     "OffsetName": "IsClientBot",
     "Nickname": "IsClientBot",
     "DataType": "Boolean",
-    "OffsetCount": "1"
+    "OffsetCount": "1",
+    "Type": "Fields"
   },
    {
   "ClassName": "Player",
     "OffsetName": "MainCameraTransform",
     "Nickname": "MainCameraTransform",
     "DataType": "Transform",
-    "OffsetCount": "2"
+    "OffsetCount": "1",
+    "Type": "Fields"
     },
       {
   "ClassName": "Player",
-    "OffsetName": "get_MyFollowCamera",
+    "OffsetName": "get_MyFollowCamera()",
     "Nickname": "get_MyFollowCamera",
     "DataType": "FollowCamera",
-    "OffsetCount": "1"
+    "OffsetCount": "1",
+    "Type": "Fields"
   },
     
 ]
