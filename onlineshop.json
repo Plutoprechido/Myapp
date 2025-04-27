@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Song Name 1",
+    "artist": "Artist 1",
+    "cover_url": "https://your-image-host.com/song1.jpg",
+    "description": "This is the first song.",
+    "download_link": "https://your-file-host.com/song1.mp3"
+  },
+  {
+    "title": "Song Name 2",
+    "artist": "Artist 2",
+    "cover_url": "https://your-image-host.com/song2.jpg",
+    "description": "Second song info here.",
+    "download_link": "https://your-file-host.com/song2.mp3"
+  }
+]
